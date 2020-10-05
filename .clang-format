@@ -1,0 +1,20 @@
+BasedOnStyle: LLVM
+
+BreakBeforeBraces: Allman
+ColumnLimit: 125
+SpacesInParentheses: false
+SpaceBeforeParens: Never
+AccessModifierOffset: -4
+IndentCaseLabels: false
+IndentWidth: 4
+TabWidth: 4
+UseTab: Always
+AlignAfterOpenBracket: Align
+SortIncludes: false
+AllowShortBlocksOnASingleLine: false
+AllowShortFunctionsOnASingleLine: false
+AllowShortIfStatementsOnASingleLine: false
+AllowShortLoopsOnASingleLine: false
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 2
+PointerAlignment: Left
